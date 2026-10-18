@@ -1,0 +1,3 @@
+congress_trades.duckdb
+__pycache__/
+*.pyc
