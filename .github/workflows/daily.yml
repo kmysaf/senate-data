@@ -61,5 +61,7 @@ jobs:
             echo "No new filings."
           else
             git commit -m "Senate trades $(date -u +%Y-%m-%d)"
+            # Another commit may have landed during a long run; replay this one on top.
+            git pull --rebase --quiet
             git push
           fi
