@@ -16793,3 +16793,7 @@ S,Capito,AAPL,Apple Inc. - Common Stock,Sale (Partial),1001,15000,2026-10-21,202
 S,Capito,META,"Meta Platforms, Inc. - Class A Common Stock",Sale (Partial),1001,15000,2026-10-21,2026-11-04,14,Stock,Spouse,false,Shelley M,"Capito, Shelley Moore (Senator)",/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/
 S,Capito,MSFT,Microsoft Corporation - Common Stock,Sale (Partial),1001,15000,2026-10-21,2026-11-04,14,Stock,Spouse,false,Shelley M,"Capito, Shelley Moore (Senator)",/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/
 S,Capito,ZTS,Zoetis Inc. Class A Common Stock,Sale (Full),1001,15000,2026-10-21,2026-11-04,14,Stock,Spouse,false,Shelley M,"Capito, Shelley Moore (Senator)",/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/
+S,Boozman,HYBB,iShares BB Rated Corporate Bond ETF,Purchase,1001,15000,2026-10-21,2026-11-17,27,Stock,Joint,false,John,"Boozman, John (Senator)",/search/view/ptr/06b7b716-bdc0-4c47-a4aa-96624e1e702c/
+S,Boozman,MBB,iShares MBS ETF,Purchase,1001,15000,2026-10-21,2026-11-17,27,Stock,Joint,false,John,"Boozman, John (Senator)",/search/view/ptr/06b7b716-bdc0-4c47-a4aa-96624e1e702c/
+S,Boozman,TLH,iShares 10-20 Year Treasury Bond ETF,Sale (Partial),1001,15000,2026-10-21,2026-11-17,27,Stock,Joint,false,John,"Boozman, John (Senator)",/search/view/ptr/21941188-c04d-4713-8e6f-d954918e93fd/
+S,Boozman,CMBS,iShares CMBS ETF,Sale (Partial),1001,15000,2026-10-21,2026-11-17,27,Stock,Joint,false,John,"Boozman, John (Senator)",/search/view/ptr/21941188-c04d-4713-8e6f-d954918e93fd/
